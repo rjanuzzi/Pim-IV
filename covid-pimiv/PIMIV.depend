@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1636591760 source:c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"loginregister.h"
+	"registroPaciente.h"
+
+1636590235 source:c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\loginregister.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"loginregister.h"
+
+1636505243 c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\loginregister.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636506161 c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\loginregister.h
+
+1636591704 c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\registropaciente.h
+
+1636592705 source:c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\registropaciente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"registroPaciente.h"
+
+1636591866 c:\users\jeane\onedrive\documentos\unip\projetos\covid-pim\pimiv\validatecpf.h
+

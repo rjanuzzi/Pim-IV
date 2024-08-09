@@ -1,0 +1,28 @@
+
+CEP: 3213
+Idade: 71
+CEP: asosdkasd
+Idade: 71
+CEP: 321
+Idade: 20
+
+CEP: 123
+Idade: 20
+
+CEP: 312
+Idade: 20
+
+CEP: 12312
+Idade: 20
+
+CEP: dasdas
+Idade: 20
+
+CEP: 12312321
+Idade: -121102
+
+CEP: asdasdasd
+Idade: 20
+
+CEP: 123123
+Idade: 71
